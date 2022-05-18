@@ -1,3 +1,6 @@
+"""
+Fake db as a list
+"""
 users = [
     {
         'first_name': 'Alice',
